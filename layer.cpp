@@ -1,6 +1,6 @@
 #include "vulkan/vulkan.h"
 #include "vulkan/vk_layer.h"
-#include "vulkan/vk_layer_dispatch_table.h"
+#include "/home/dominik/tools/vulkansdk/1.3.275.0/source/Vulkan-Loader/loader/generated/vk_layer_dispatch_table.h"
 
 #include <cstdio>
 #include <cstdlib>
